@@ -1,0 +1,96 @@
+
+
+body {
+    padding-top: 20px;
+    margin: 10px;
+   
+   }
+   .linhaCinza {
+       background: gray;
+       
+   }
+   .linhaPersonalizada{
+   background: red;
+   padding-top: 20px;
+   padding-bottom: 10px;
+   }
+   .bg-color-padding p {
+   padding: 15px;
+   }
+
+   h1 {
+       background: rgb(85, 81, 81);
+       font-family: Edwardian Script ITC;  
+       font-size: 100px;
+       box-shadow: 1px 1px 10px black;
+
+   }
+   h1 {
+       color: white;
+       letter-spacing: 10px;
+       
+   }
+
+   h2 {
+       background: 50px;
+       background-color: gray;
+       box-shadow: 1px 1px 10px black;
+       font-family: 'Courier New', Courier, monospace;
+
+       
+   }
+
+   H4 {
+       letter-spacing: 60px
+   }
+   
+   small {
+       letter-spacing: 15px
+   }
+
+   h5 {
+       font-size: 30px
+       
+       
+   }
+
+   h5 {
+       background-color: rgb(255, 255, 255)
+       
+   }
+
+   li {
+       font-size: 20px;
+       font-family: Georgia, 'Times New Roman', Times, serif
+       padding-top: 50px
+       left: 203px;
+       display: inline-block;
+       background-color: white;
+       padding: 10px;
+       
+   }
+
+   li {
+       letter-spacing: 25px
+       
+   }
+   
+   li {
+       font-family: impact regular;
+       font-style: normal
+       
+   }
+
+   li {
+       color: rgb(0, 0, 0)
+   }
+
+   h6 {
+       font-size: 80px
+       
+   }
+
+   h6{
+       font-family: 'Courier New', Courier, monospace; 
+   }
+   
